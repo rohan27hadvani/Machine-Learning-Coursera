@@ -6,7 +6,7 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 * Solution to Quizzes
 
 ## Certificate
-* [Verified Certificate](coursera.org/verify/KYTN6EY25DLK)
+* [Verified Certificate](https://www.coursera.org/account/accomplishments/records/KYTN6EY25DLK)
 
 ## References
-[[1] Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
+Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
