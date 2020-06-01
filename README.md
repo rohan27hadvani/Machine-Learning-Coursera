@@ -9,4 +9,4 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 * [Verified Certificate](https://www.coursera.org/account/accomplishments/records/KYTN6EY25DLK)
 
 ## References
-Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
+[Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
